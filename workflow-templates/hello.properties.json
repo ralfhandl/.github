@@ -5,8 +5,5 @@
   "categories": [
     "deployment",
     "Pages"
-  ],
-  "filePatterns": [
-    "^scripts/build.sh$"
   ]
 }
