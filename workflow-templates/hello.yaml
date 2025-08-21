@@ -1,0 +1,12 @@
+name: Say Hello
+
+on:
+  workflow_dispatch: {}
+
+jobs:
+  greet:
+    steps:
+      - name: say hello
+        shell: bash
+        run: |
+          echo "Hello"
